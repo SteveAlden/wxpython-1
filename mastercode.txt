@@ -1,0 +1,5 @@
+# print off your code and read it through. refactor on paper.
+
+#should have python docs printed
+
+#lists of available modules, and tools to understand, like PyCrust
